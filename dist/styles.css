@@ -15,6 +15,7 @@
 /* Official artwork is preserved as supplied by the bakery's existing site.
    The CSS frame trims only empty background above/below the complete lockup. */
 .brand-logo{width:180px;height:120px;object-fit:cover;object-position:center;border-radius:2px}
+.hero-image figcaption>span:last-child{font:inherit;color:inherit}
 .footer .brand-logo{width:150px;height:100px}
 @media(max-width:760px){.brand-logo{width:145px;height:97px}.footer .brand-logo{width:130px;height:87px}}
 .light-section a:hover{color:var(--sienna)}
