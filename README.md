@@ -10,6 +10,8 @@ The two inline photos in the conversation did not expose original download files
 
 ## Image sources
 
+- `assets/miez-official-logo.png`: official Miez logo, matching the user's reference, retrieved from the existing bakery site's profile artwork: https://lh3.googleusercontent.com/a-/ALV-UjU_wl105yTOIMYhlU11DN4F0m5VkaEJDa6-luhAETn43RJk79A=s1000 . Used without redrawing or recolouring in header, footer and favicon.
+
 - `assets/bread-display.jpg`: https://img3.restaurantguru.com/r4a9-meals-Miez-Brutarie-artizanala-Chisinau.jpg
 - `assets/bakery-counter.jpg`: https://img02.restaurantguru.com/c26e-Restaurant-Miez-Brutarie-artizanala-Chisinau-meals.jpg
 - `assets/bakery-story.webp`: optimized from the bakery's existing website gallery, https://lh3.googleusercontent.com/5YIY178ZhkEcJycL6UD0KqRdK_7QOkGR_PPxqI-zRqlHTVUnxa-_spwqq_IzdgvtQXvQB_tRpadp1YDA=s0
